@@ -25,8 +25,9 @@ module.exports = {
             "double",
             {
                 allowTemplateLiterals: true,
-                 avoidEscape: true
+                avoidEscape: true
             }
-        ]
+        ],
+        "react/display-name": "off"
     }
 };
